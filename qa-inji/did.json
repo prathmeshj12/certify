@@ -6,7 +6,7 @@
   "id": "did:web:prathmeshj12.github.io:certify:qa-inji",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MksK4V3T349A4cEDodpGthspbPBm3tXK7G4qD6bQQMDojU",
+      "publicKeyMultibase": "z6MkjKJVjxpBT8G5xsGXsSJF2yxjDmHWgrojUBeN9XcKuRKA",
       "controller": "did:web:prathmeshj12.github.io:certify:qa-inji",
       "id": "did:web:prathmeshj12.github.io:certify:qa-inji#key-0",
       "type": "Ed25519VerificationKey2020",
